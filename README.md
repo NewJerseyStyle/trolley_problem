@@ -1,2 +1,2 @@
 # trolley_problem
-Trolley problem in WebGL (powered by three.js)
+Trolley problem in WebGL 2 (made with Godot)
